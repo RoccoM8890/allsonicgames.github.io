@@ -1,0 +1,396 @@
+Uri: https://blackmesa.com/
+File Name: C:\Downloaded Web Sites\blackmesa.com\index.htm
+Content Type: text/html
+
+Uri: https://blackmesa.com/about
+File Name: C:\Downloaded Web Sites\blackmesa.com\about.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/about/feed
+File Name: C:\Downloaded Web Sites\blackmesa.com\about\feed
+Content Type: application/rss+xml
+
+Uri: https://blackmesa.com/advisory-board
+File Name: C:\Downloaded Web Sites\blackmesa.com\advisory-board.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/advisory-board/feed
+File Name: C:\Downloaded Web Sites\blackmesa.com\advisory-board\feed
+Content Type: application/rss+xml
+
+Uri: https://blackmesa.com/resonance-cascades
+File Name: C:\Downloaded Web Sites\blackmesa.com\resonance-cascades.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/resonance-cascades/feed
+File Name: C:\Downloaded Web Sites\blackmesa.com\resonance-cascades\feed
+Content Type: application/rss+xml
+
+Uri: https://blackmesa.com/sample-page
+File Name: C:\Downloaded Web Sites\blackmesa.com\sample-page.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/sample-page/feed
+File Name: C:\Downloaded Web Sites\blackmesa.com\sample-page\feed
+Content Type: application/rss+xml
+
+Uri: https://blackmesa.com/wp-admin/images/loading.gif
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\images\loading.gif
+Content Type: image/gif
+
+Uri: https://blackmesa.com/wp-admin/images/w-logo-blue.png?ver=20131202
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\images\w-logo-blue.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-admin/images/wordpress-logo.svg?ver=20131107
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\images\wordpress-logo.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-admin/js/password-strength-meter.min.js?ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\js\password-strength-meter.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-admin/js/user-profile.min.js?ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\js\user-profile.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-admin/load-scripts.php?c=0&load[chunk_0]=jquery-core,jquery-migrate,zxcvbn-async,wp-hooks&ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\load-scripts.php
+Content Type: application/javascript
+
+Uri: https://blackmesa.com/wp-admin/load-styles.php?c=0&dir=ltr&load[chunk_0]=dashicons,buttons,forms,l10n,login&ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-admin\load-styles.php
+Content Type: text/css
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/css/frontend.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/fonts/inter.woff2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\fonts\inter.woff2
+Content Type: font/woff2
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/icons/module_socialprofiles.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\icons\module_socialprofiles.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_beforeafter.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_beforeafter.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_blogposts.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_blogposts.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_code.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_code.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_dribbble.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_dribbble.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_gallery.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_gallery.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_gallerygrid.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_gallerygrid.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_image.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_image.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_instagram.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_lottie.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_lottie.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_oembed.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_oembed.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_portfoliogrid.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_portfoliogrid.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_singleproject.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_singleproject.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/placeholders/mp_bg_video.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\placeholders\mp_bg_video.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/admin/select_box_arrow.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\admin\select_box_arrow.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/frontend/icons/password_submit.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\frontend\icons\password_submit.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/frontend/mediaelement/bigplay.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\frontend\mediaelement\bigplay.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/frontend/mediaelement/controls_old.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\frontend\mediaelement\controls_old.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/frontend/mediaelement/controls_recent.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\frontend\mediaelement\controls_recent.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/frontend/photoswipe/default-skin.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\frontend\photoswipe\default-skin.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/images/frontend/photoswipe/default-skin.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\images\frontend\photoswipe\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/js/frontend.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\js\frontend.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/js/frontend.scripts.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\js\frontend.scripts.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/assets/js/shared.scripts.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\assets\js\shared.scripts.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-content/themes/semplice6/style.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\themes\semplice6\style.css
+Content Type: text/css
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/04/BM_lockup_1530.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\04\BM_lockup_1530.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/04/favicon.ico
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\04\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/04/footer_building_02_cropped.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\04\footer_building_02_cropped.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/04/pattern_1px.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\04\pattern_1px.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/04/pattern_mini.png
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\04\pattern_mini.png
+Content Type: image/png
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/04/shield_bubbles.gif
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\04\shield_bubbles.gif
+Content Type: image/gif
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/06/BM_Header-7.mp4
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\06\BM_Header-7.mp4
+Content Type: video/mp4
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/IMG_0017-1152x1536.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\IMG_0017-1152x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/IMG_0017-1536x2048.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\IMG_0017-1536x2048.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/IMG_0017-225x300.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\IMG_0017-225x300.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/IMG_0017-768x1024.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\IMG_0017-768x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/IMG_0017-scaled.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\IMG_0017-scaled.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/IMG_0368-e1723478337857.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\IMG_0368-e1723478337857.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/joshua-kantarges-bandw-mesa-scaled-e1724765928226.jpg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\joshua-kantarges-bandw-mesa-scaled-e1724765928226.jpg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/Unknown-scaled-e1724422282304-224x300.jpeg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\Unknown-scaled-e1724422282304-224x300.jpeg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/Unknown-scaled-e1724422282304-765x1024.jpeg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\Unknown-scaled-e1724422282304-765x1024.jpeg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/Unknown-scaled-e1724422282304-768x1028.jpeg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\Unknown-scaled-e1724422282304-768x1028.jpeg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-content/uploads/2024/08/Unknown-scaled-e1724422282304.jpeg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-content\uploads\2024\08\Unknown-scaled-e1724422282304.jpeg
+Content Type: image/jpeg
+
+Uri: https://blackmesa.com/wp-includes/css/dist/block-library/style.min.css?ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://blackmesa.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://blackmesa.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\fonts\dashicons.ttf
+Content Type: font/ttf
+
+Uri: https://blackmesa.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\dist\i18n.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\jquery\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://blackmesa.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://blackmesa.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\underscore.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-includes/js/wp-util.min.js?ver=6.6.1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-includes\js\wp-util.min.js
+Content Type: text/javascript
+
+Uri: https://blackmesa.com/wp-json/
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2F
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fabout
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fabout&format=xml
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fadvisory-board
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fadvisory-board&format=xml
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fresonance-cascades
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fresonance-cascades&format=xml
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fsample-page
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fblackmesa.com%2Fsample-page&format=xml
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://blackmesa.com/wp-json/wp/v2/pages/14
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\wp\v2\pages\14
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/wp/v2/posts/40
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\wp\v2\posts\40
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/wp/v2/posts/66
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\wp\v2\posts\66
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-json/wp/v2/posts/78
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-json\wp\v2\posts\78
+Content Type: application/json
+
+Uri: https://blackmesa.com/wp-login.php
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-login.php-2.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/wp-login.php?action=lostpassword
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-login.php-1.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/wp-login.php?redirect_to=https:%2F%2Fblackmesa.com%2Fwp-admin%2F&reauth=1
+File Name: C:\Downloaded Web Sites\blackmesa.com\wp-login.php.html
+Content Type: text/html
+
+Uri: https://blackmesa.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\blackmesa.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&family=IBM+Plex+Mono:wght@500&family=IBM+Plex+Sans&family=IBM+Plex+Serif&display=swap
+File Name: C:\Downloaded Web Sites\blackmesa.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHpv4kjgoGqM7EPCw.ttf
+File Name: C:\Downloaded Web Sites\blackmesa.com\s\barlow\v12\7cHpv4kjgoGqM7EPCw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E3t-4c4A.ttf
+File Name: C:\Downloaded Web Sites\blackmesa.com\s\barlow\v12\7cHqv4kjgoGqM7E3t-4c4A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v19/-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf
+File Name: C:\Downloaded Web Sites\blackmesa.com\s\ibmplexmono\v19\-F6qfjptAgt5VM-kVkqdyU8n3twJ8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsans/v19/zYXgKVElMYYaJe8bpLHnCwDKtdY.ttf
+File Name: C:\Downloaded Web Sites\blackmesa.com\s\ibmplexsans\v19\zYXgKVElMYYaJe8bpLHnCwDKtdY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexserif/v19/jizDREVNn1dOx-zrZ2X3pZvkThUY.ttf
+File Name: C:\Downloaded Web Sites\blackmesa.com\s\ibmplexserif\v19\jizDREVNn1dOx-zrZ2X3pZvkThUY.ttf
+Content Type: font/ttf
+
